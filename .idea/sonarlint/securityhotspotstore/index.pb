@@ -11,3 +11,9 @@ R
 "src/model/entities/Department.java,0\c\0cc8a0259b4fa441d2a156549521347f28bf6e87
 N
 src/model/entities/Seller.java,d\3\d33041a4c493273e337c2715df20a3f290539825
+L
+src/model/dao/SellerDao.java,4\d\4ddcb8b2f69c52a0a9f78343aa92feb9c372f686
+P
+ src/model/dao/DepartmentDao.java,b\2\b25d0882451fed228e7b8cd5cdac11a461a1c17c
+M
+src/model/dao/DaoFactory.java,8\2\8288bf9e5483612d44edd95b2dd5fef42a1a42ff
