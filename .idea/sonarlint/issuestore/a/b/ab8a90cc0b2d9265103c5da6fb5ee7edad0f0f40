@@ -1,5 +1,2 @@
 
-[
-java:S1854	">Remove this useless assignment to local variable "connection".(Úøó²8½ïìÉ1
-L
-java:S1481	"/Remove this unused "connection" local variable.(Úøó²8¿ïìÉ1
+L	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8Œ³Ó¹Ê1
