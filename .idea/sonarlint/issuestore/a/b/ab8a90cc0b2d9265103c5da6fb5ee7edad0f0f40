@@ -1,2 +1,7 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ª‰‡Ύόÿÿÿÿ8³ΣΉΚ1
+G	java:S106"+Replace this use of System.out by a logger.(ΥΙ½Ν8³ΣΉΚ1
+L	java:S106"+Replace this use of System.out by a logger.(ª‰‡Ύόÿÿÿÿ8χωςΉΚ1
+?
+java:S1128""Remove this unused import 'db.DB'.(Ϋτ¶Ϋ8χωςΉΚ1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ΛτΦ8χωςΉΚ1
