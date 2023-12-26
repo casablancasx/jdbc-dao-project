@@ -1,7 +1,9 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(ÕÉ½Í8Œ³Ó¹Ê1
-L	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8÷ùò¹Ê1
+L	java:S106"+Replace this use of System.out by a logger.(“èãÚøÿÿÿÿ8ê´ºÊ1
+L	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8ë´ºÊ1
+L	java:S106"+Replace this use of System.out by a logger.(åÎÖÑúÿÿÿÿ8ë´ºÊ1
+G	java:S106"+Replace this use of System.out by a logger.(Áªø8í´ºÊ1
 ?
-java:S1128""Remove this unused import 'db.DB'.(Ûô¶Û8÷ùò¹Ê1
+java:S1128""Remove this unused import 'db.DB'.(Ûô¶Û8î´ºÊ1
 M
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8÷ùò¹Ê1
+java:S1128	"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8î´ºÊ1
