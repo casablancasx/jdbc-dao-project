@@ -9,5 +9,6 @@ public class Program {
     public static void main(String[] args) {
         SellerDao sellerDao = DaoFactory.createSellerDao();
         DepartmentDao departmentDao = DaoFactory.createDepartmentDao();
+        departmentDao.deleteById(5);
     }
 }

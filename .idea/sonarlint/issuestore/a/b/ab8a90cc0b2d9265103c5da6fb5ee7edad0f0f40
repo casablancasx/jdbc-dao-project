@@ -1,13 +1,9 @@
 
-]
-java:S1854"ARemove this useless assignment to local variable "departmentDao".(³»‡I8€ÒìÅÊ1
 _
 java:S1854
 "=Remove this useless assignment to local variable "sellerDao".(úï¡Ëıÿÿÿÿ8ÓÃéÅÊ1
 P
 java:S1481
 ".Remove this unused "sellerDao" local variable.(úï¡Ëıÿÿÿÿ8ÓÃéÅÊ1
-N
-java:S1481"2Remove this unused "departmentDao" local variable.(³»‡I8€ÒìÅÊ1
 X
 java:S1128"6Remove this unused import 'model.entities.Department'.(œæøÿÿÿÿ8€ÒìÅÊ1
