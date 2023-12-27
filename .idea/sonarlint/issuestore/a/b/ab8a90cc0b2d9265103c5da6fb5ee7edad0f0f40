@@ -1,15 +1,7 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(“èãÚøÿÿÿÿ8Åª˜ÁÊ1
-L	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8Æª˜ÁÊ1
-G	java:S106"+Replace this use of System.out by a logger.(›Ëö›8Æª˜ÁÊ1
-G	java:S106"+Replace this use of System.out by a logger.(Áªø8Æª˜ÁÊ1
-L	java:S106"+Replace this use of System.out by a logger.(æÛüĞûÿÿÿÿ8Çª˜ÁÊ1
-G	java:S106 "+Replace this use of System.out by a logger.(Áªø8Çª˜ÁÊ1
-G	java:S106#"+Replace this use of System.out by a logger.(¬•äÆ8Çª˜ÁÊ1
-?
-java:S1128""Remove this unused import 'db.DB'.(Ûô¶Û8¸£šÁÊ1
-[
-java:S1128"9Remove this unused import 'model.dao.impl.SellerDaoJDBC'.(Šøµ°ÿÿÿÿÿ8¸£šÁÊ1
-M
-java:S1128
-"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¸£šÁÊ1
+_
+java:S1854
+"=Remove this useless assignment to local variable "sellerDao".(úï¡Ëıÿÿÿÿ8‰ğÂÅÊ1
+P
+java:S1481
+".Remove this unused "sellerDao" local variable.(úï¡Ëıÿÿÿÿ8‰ğÂÅÊ1

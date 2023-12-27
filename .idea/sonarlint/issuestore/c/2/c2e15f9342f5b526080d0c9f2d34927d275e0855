@@ -1,18 +1,16 @@
 
 …
-java:S1192_"hDefine a constant instead of duplicating this literal "ON seller.DepartmentId = department.Id " 3 times.(©ËĞè8îÚĞÁÊ1
+java:S1192i"hDefine a constant instead of duplicating this literal "ON seller.DepartmentId = department.Id " 3 times.(©ËĞè8íÃéÁÊ1
 
-java:S1192]"lDefine a constant instead of duplicating this literal "SELECT seller.*,department.Name as DepName " 3 times.(¢¦•›úÿÿÿÿ8ïÚĞÁÊ1
+java:S1192g"lDefine a constant instead of duplicating this literal "SELECT seller.*,department.Name as DepName " 3 times.(¢¦•›úÿÿÿÿ8íÃéÁÊ1
 …
-java:S1192^"cDefine a constant instead of duplicating this literal "FROM seller INNER JOIN department " 3 times.(¤‹æŸÿÿÿÿÿ8ïÚĞÁÊ1
+java:S1192h"cDefine a constant instead of duplicating this literal "FROM seller INNER JOIN department " 3 times.(¤‹æŸÿÿÿÿÿ8íÃéÁÊ1
 p
-java:S1192€"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(É‚¢ÿÿÿÿÿ8ïÚĞÁÊ1
+java:S1192Š"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(É‚¢ÿÿÿÿÿ8íÃéÁÊ1
 x
-java:S1488f"[Immediately return this expression instead of assigning it to the temporary variable "obj".(º¾Öû8ïÚĞÁÊ1
-
-java:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïàš8°ÛĞÁÊ1
+java:S1488p"[Immediately return this expression instead of assigning it to the temporary variable "obj".(º¾Öû8íÃéÁÊ1
 R
 java:S1128
-"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ÃÛĞÁÊ1
+"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ºÄéÁÊ1
 \
-java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ÄÛĞÁÊ1
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ºÄéÁÊ1

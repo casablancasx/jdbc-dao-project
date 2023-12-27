@@ -19,3 +19,5 @@ M
 src/model/dao/DaoFactory.java,8\2\8288bf9e5483612d44edd95b2dd5fef42a1a42ff
 U
 %src/model/dao/impl/SellerDaoJDBC.java,c\2\c2e15f9342f5b526080d0c9f2d34927d275e0855
+Y
+)src/model/dao/impl/DepartmentDaoJDBC.java,2\8\287272fd2046a869058dd0f9b73133f7cc6f4f00
